@@ -13,14 +13,14 @@ Install PyExifTool
 git clone git://github.com/smarnach/pyexiftool.git
 python setup.py install [--user|--prefix=<installation-prefix]
 ```
-Get Tumblr access credentials from the Tumblr API console at https://api.tumblr.com/console.
 Install PM2
 ``` shell
 npm install pm2 -g 
 ```
+Get Tumblr access credentials from the Tumblr API console at https://api.tumblr.com/console.
 
 # Usage
-Add some blog names at blog list, then start fetching and pushing service using following commands:
+Add some blog names at blog list, then start fetching and pushing service using following command:
 ``` shell
 pm2 start main.py
 ```
