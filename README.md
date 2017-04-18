@@ -8,7 +8,8 @@ Install packages as following instructions
 ``` shell
 pip install pytumblr telegram-send
 ```
-Then configure **telegram-send** by entering the bot credentials created by Telegram Bot.
+Then configure **telegram-send** by entering the bot credentials created by Telegram Bot.  
+Get Tumblr access credentials from the Tumblr API console at https://api.tumblr.com/console.
 
 Install PyExifTool
 ``` shell
@@ -19,7 +20,6 @@ Install PM2
 ``` shell
 npm install pm2 -g 
 ```
-Get Tumblr access credentials from the Tumblr API console at https://api.tumblr.com/console.
 
 # Usage
 Add some blog names at blog list, then start fetching and pushing service using following command:
