@@ -8,8 +8,8 @@ Install packages as following instructions
 ``` shell
 pip install pytumblr telegram-send
 ```
-Then configure **telegram-send** by entering the bot credentials created by Telegram Bot.  
-Get Tumblr access credentials from the Tumblr API console at https://api.tumblr.com/console.
+Get Tumblr access credentials from the Tumblr API console at https://api.tumblr.com/console.  
+Then configure **telegram-send** by entering the bot credentials created by Telegram Bot.
 
 Install PyExifTool
 ``` shell
